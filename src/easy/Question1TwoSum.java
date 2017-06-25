@@ -2,7 +2,7 @@ package easy;
 
 import java.util.HashMap;
 
-class TwoSum {
+class Question1TwoSum {
     /* Too Slow
     static int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length - 1; i++) {

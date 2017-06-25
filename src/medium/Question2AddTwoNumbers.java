@@ -2,7 +2,7 @@ package medium;
 
 import common.*;
 
-public class AddTwoNumbers {
+public class Question2AddTwoNumbers {
     static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode c1 = l1;
         ListNode c2 = l2;
@@ -40,6 +40,6 @@ public class AddTwoNumbers {
         listNode4.next = listNode5;
         listNode5.next = listNode6;
 
-        AddTwoNumbers.addTwoNumbers(listNode1, listNode4);
+        Question2AddTwoNumbers.addTwoNumbers(listNode1, listNode4);
     }
 }
