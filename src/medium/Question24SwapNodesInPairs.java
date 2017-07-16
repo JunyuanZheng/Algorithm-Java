@@ -1,6 +1,6 @@
 package medium;
 
-import lib.ListNode;
+import common.ListNode;
 
 public class Question24SwapNodesInPairs {
     /* Can be optimized

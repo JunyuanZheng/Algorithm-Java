@@ -1,6 +1,6 @@
 package medium;
 
-import lib.ListNode;
+import common.ListNode;
 
 // Two Methods:
 // 1 Pass

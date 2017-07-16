@@ -1,15 +1,8 @@
 package easy;
 
-import java.util.*;
+import common.TreeNode;
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) {
-        val = x;
-    }
-}
+import java.util.*;
 
 public class Question637AverageofLevelsinBinaryTree {
     /*
