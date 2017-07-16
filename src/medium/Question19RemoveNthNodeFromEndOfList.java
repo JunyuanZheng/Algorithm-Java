@@ -1,11 +1,6 @@
 package medium;
 
-
-class ListNode {
-  int val;
-  ListNode next;
-  ListNode(int x) { val = x; }
-}
+import lib.ListNode;
 
 // Two Methods:
 // 1 Pass
