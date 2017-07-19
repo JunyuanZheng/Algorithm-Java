@@ -1,15 +1,8 @@
 package hard;
 
+import common.ListNode;
+
 import java.util.PriorityQueue;
-
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode(int x) {
-        val = x;
-    }
-}
 
 public class Question23MergeKSortedLists {
     public ListNode mergeKLists(ListNode[] lists) {
