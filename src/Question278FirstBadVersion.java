@@ -1,4 +1,5 @@
 public class Question278FirstBadVersion {
+    /*
     public int firstBadVersion(int n) {
         int low = 1, high = n;
         while (low <= high) {
@@ -11,4 +12,5 @@ public class Question278FirstBadVersion {
         }
         return low;
     }
+    */
 }
